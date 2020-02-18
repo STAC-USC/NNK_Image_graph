@@ -6,9 +6,12 @@ Submitted for review at [ICIP 2020](https://2020.ieeeicip.org/). This version of
 
 ## Citing this work
 ```
-@misc{shekkizhar2019graph,
+@misc{shekkizhar2020efficient,
     title={Efficient graph construction for image representation},
     author={Sarath Shekkizhar and Antonio Ortega},
-    year={2020}
+    year={2020},
+    eprint={2002.06662},
+    archivePrefix={arXiv},
+    primaryClass={eess.IV}
 }
 ```
