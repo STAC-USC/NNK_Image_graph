@@ -1,6 +1,6 @@
 # NNK Image Graph
 
-Matlab source code for our paper: Efficient graph construction for image representation.
+Matlab source code for our paper: [Efficient graph construction for image representation](https://arxiv.org/abs/2002.06662).
 
 Submitted for review at [ICIP 2020](https://2020.ieeeicip.org/). This version of source code is updated with our latest implementation with even faster runtimes and better performance than claimed in our submission.
 
